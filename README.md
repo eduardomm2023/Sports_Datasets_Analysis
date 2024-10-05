@@ -1,4 +1,4 @@
-# Sports_Datasets_Analysis
+# Sports_Datasets_Analysi
 ![](deportes2.jpg)
 # En este repositorio iré subiendo ejercicios resueltos de análisis de datos relacionados con el ÁMBITO DEPORTIVO.
 # https://www.kaggle.com/datasets?search=sports
